@@ -1,0 +1,6 @@
+link for Render service: https://password-generator-web-80i6.onrender.com/?
+
+A lightweight web application built with Python and Flask that generates cryptographically secure passwords using Python's secrets module. The application is containerized with Docker and configured for automated deployment on cloud platforms such as Render. Render is connected to the pushed GitHub repo.
+
+More information in README:
+https://github.com/AtHelge/password-generator-web
